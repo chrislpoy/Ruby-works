@@ -6,3 +6,7 @@ name = gets.chomp
 
 # Greet the user
 puts "Hello, #{name}! Welcome to the world of Ruby programming."
+
+# Wait for user input to keep the program open
+puts "Press Enter to exit..."
+gets
